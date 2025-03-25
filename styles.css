@@ -826,7 +826,7 @@ ol{
 }
 
 .call-container {
-    width: 40%;
+    width: auto;
     height: auto;
     padding: 20px 50px;
     display: flex;
