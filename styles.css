@@ -860,7 +860,7 @@ ol{
     padding: 5px 50px;
     margin-top: 30px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
     position: relative;
